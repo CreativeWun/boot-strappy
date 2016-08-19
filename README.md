@@ -1,2 +1,3 @@
 # boot-strappy
 All my bootstrap changes, improvements, etc...
+This will be mostly for Drupal installments as that is my current focus
